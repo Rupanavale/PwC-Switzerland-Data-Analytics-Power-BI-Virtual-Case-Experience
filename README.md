@@ -19,12 +19,12 @@ Possible KPIs include (to get you started, but not limited to):
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 ## Dataset
-The dataset [Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Call-Centre-Trends/01%20Call-Center-Dataset%20(1).xlsx)
+The dataset [Link](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/01%20Call-Center-Dataset%20(1).xlsx)
 
 
 ## Visualization
 
-[Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Call-Centre-Trends/Call%20Center%20Solution%20Rupa%20Navale%20(1).pbix)
+[Link](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/Call%20Center%20Solution%20Rupa%20Navale%20(1).pbix)
 
 ![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/30b6312d-e9d2-4d48-b2f8-e4c6e64b5868)
 
@@ -43,10 +43,10 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 The Retentions Manager has provided some information, have a look through the resource section.
 
 ## Dataset
-The dataset has two files [Churn Dataset](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Customer-Retention/02%20Churn-Dataset%20(1).xlsx) and [Input Files](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Customer-Retention/PhoneNow%20inputs%20(3).pdf)
+The dataset has two files [Churn Dataset](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/02%20Churn-Dataset%20(1).xlsx) and [Input Files](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/PhoneNow%20inputs%20(3).pdf)
 
 ## Visualization
-[Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Customer-Retention/Churn%20Data%20Rupa%20Solution%20(1).pbix)
+[Link](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/Churn%20Data%20Rupa%20Solution%20(1).pbix)
 
 ![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/4ad5d9f6-fdc9-480c-9df6-8dfccd218580)
 
@@ -78,11 +78,11 @@ Here is a hint: Calculating the following measures could help to define proper K
 - Average Performance rating: women
 
 ## Dataset
-The dataset is [Diversity & Inclusion](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Diversity-%26-Inclusion/03%20Diversity-Inclusion-Dataset%20(1).xlsx)
+The dataset is [Diversity & Inclusion](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/03%20Diversity-Inclusion-Dataset%20(1).xlsx)
 
 ## Visualization
 
-[Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Diversity-%26-Inclusion/Diversity%20%26%20Inclusion%20Rupa%20Solution.pbix)
+[Link](https://github.com/Rupanavale/PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Case-Experience/blob/main/Diversity%20%26%20Inclusion%20Rupa%20Solution.pbix)
 
 ![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/64255a5c-24dc-4c12-9994-7f69cc6d0070)
 
