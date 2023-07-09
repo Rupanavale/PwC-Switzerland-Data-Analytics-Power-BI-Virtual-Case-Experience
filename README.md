@@ -1,5 +1,5 @@
 # PwC-Switzerland-Data-Analytics-Power-BI-Virtual-Internship
-## Task 1 : Customer Retention
+## Task 1 : Call Centre Trends
 It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 
 ![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/67c4c007-7d03-4d32-b34f-5b2e003e34a6)
